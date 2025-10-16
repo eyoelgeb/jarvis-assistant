@@ -1,0 +1,5 @@
+speechrecognition
+pyjokes
+wikipedia
+openai
+pypiwin32
